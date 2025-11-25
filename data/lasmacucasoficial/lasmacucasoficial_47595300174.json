@@ -1,0 +1,92 @@
+{
+    "instaloader": {
+        "node_type": "Profile",
+        "version": "4.14.2"
+    },
+    "node": {
+        "ai_agent_owner_username": null,
+        "ai_agent_type": null,
+        "bio_links": [],
+        "biography": "Tus t\u00edas yucatecas Cuca de Regil Casares de Argaez y Maruca C\u00e1mara Puerto de Ayuso.\nEn gozo, en antojo y en confort \ud83d\udc81\ud83c\udffc\u200d\u2640\ufe0f\ud83d\udc81\ud83c\udffd\u200d\u2640\ufe0f\nTikTok @lasmacucas",
+        "biography_with_entities": {
+            "entities": [
+                {
+                    "hashtag": null,
+                    "user": {
+                        "username": "lasmacucas"
+                    }
+                }
+            ],
+            "raw_text": "Tus t\u00edas yucatecas Cuca de Regil Casares de Argaez y Maruca C\u00e1mara Puerto de Ayuso.\nEn gozo, en antojo y en confort \ud83d\udc81\ud83c\udffc\u200d\u2640\ufe0f\ud83d\udc81\ud83c\udffd\u200d\u2640\ufe0f\nTikTok @lasmacucas"
+        },
+        "blocked_by_viewer": false,
+        "business_address_json": null,
+        "business_category_name": null,
+        "business_contact_method": "UNKNOWN",
+        "business_email": null,
+        "business_phone_number": null,
+        "category_enum": null,
+        "category_name": null,
+        "country_block": false,
+        "edge_follow": {
+            "count": 2
+        },
+        "edge_followed_by": {
+            "count": 7183
+        },
+        "edge_mutual_followed_by": {
+            "count": 0,
+            "edges": []
+        },
+        "edge_related_profiles": {
+            "edges": []
+        },
+        "eimu_id": "17844538115588175",
+        "external_url": null,
+        "external_url_linkshimmed": null,
+        "fb_profile_biolink": null,
+        "fbid": "17841447645229412",
+        "followed_by_viewer": false,
+        "follows_viewer": false,
+        "full_name": "Las Macucas",
+        "group_metadata": null,
+        "guardian_id": null,
+        "has_ar_effects": false,
+        "has_blocked_viewer": false,
+        "has_channel": false,
+        "has_clips": true,
+        "has_guides": false,
+        "has_onboarded_to_text_post_app": false,
+        "has_requested_viewer": false,
+        "hide_like_and_view_counts": false,
+        "highlight_reel_count": 0,
+        "id": "47595300174",
+        "is_business_account": false,
+        "is_embeds_disabled": false,
+        "is_guardian_of_viewer": false,
+        "is_joined_recently": false,
+        "is_private": false,
+        "is_professional_account": true,
+        "is_regulated_c18": false,
+        "is_supervised_by_viewer": false,
+        "is_supervised_user": false,
+        "is_supervision_enabled": false,
+        "is_verified": false,
+        "is_verified_by_mv4b": false,
+        "overall_category_name": null,
+        "pinned_channels_list_count": 0,
+        "profile_pic_url": "https://instagram.fmex1-5.fna.fbcdn.net/v/t51.2885-19/518471036_18056405354588175_6637131067064591240_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmex1-5.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QGgTlVf9DssWembNSqtguvRzpD6hvY1xPY1RPTo4oh7mWW8mcZUkS_JdwwuUaN1rMn_Zb2JCbqKAYF2dH-e1m7d&_nc_ohc=q4RIACshxO0Q7kNvwF0trAG&_nc_gid=X0OCs9S-m7VF1vuLYLbKZg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfezdNyJHHOIuQTHspDWxRbHRikE3KBvQlm2TaFA22G9Bg&oe=690383DA&_nc_sid=8b3546",
+        "profile_pic_url_hd": "https://instagram.fmex1-5.fna.fbcdn.net/v/t51.2885-19/518471036_18056405354588175_6637131067064591240_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmex1-5.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QGgTlVf9DssWembNSqtguvRzpD6hvY1xPY1RPTo4oh7mWW8mcZUkS_JdwwuUaN1rMn_Zb2JCbqKAYF2dH-e1m7d&_nc_ohc=q4RIACshxO0Q7kNvwF0trAG&_nc_gid=X0OCs9S-m7VF1vuLYLbKZg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Afe3rJT1ZN1MTVSsz59lnhT2SSJDNrpshwbjlxu1HqWk8Q&oe=690383DA&_nc_sid=8b3546",
+        "pronouns": [],
+        "remove_message_entrypoint": false,
+        "requested_by_viewer": false,
+        "restricted_by_viewer": null,
+        "should_show_category": false,
+        "should_show_public_contacts": false,
+        "show_account_transparency_details": true,
+        "show_text_post_app_badge": null,
+        "transparency_label": null,
+        "transparency_product": null,
+        "username": "lasmacucasoficial"
+    }
+}
