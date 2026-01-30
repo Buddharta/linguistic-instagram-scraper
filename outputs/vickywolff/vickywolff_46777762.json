@@ -1,0 +1,163 @@
+{
+    "instaloader": {
+        "node_type": "Profile",
+        "version": "4.14.2"
+    },
+    "node": {
+        "ai_agent_owner_username": null,
+        "ai_agent_type": null,
+        "bio_links": [
+            {
+                "link_type": "external",
+                "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fvickywolff&e=AT2hteJ2THD5q0KIHVqghdY1w44u3In-UZexAl4bOWzyzJHPW68U06_eDc1xou2IUUg2d4lc9IgA1zcglRkoZ9KXNTkEZWsdujj_2Sxr6gNqh6O3",
+                "title": "Redes",
+                "url": "https://linktr.ee/vickywolff"
+            }
+        ],
+        "biography": "\u26c8\ufe0f Princesa Chaac\n\ud83c\udfae Streamer en Twitch\n\ud83d\udccdYucat\u00e1n, MX",
+        "biography_with_entities": {
+            "entities": [],
+            "raw_text": "\u26c8\ufe0f Princesa Chaac\n\ud83c\udfae Streamer en Twitch\n\ud83d\udccdYucat\u00e1n, MX"
+        },
+        "blocked_by_viewer": false,
+        "business_address_json": null,
+        "business_category_name": null,
+        "business_contact_method": "UNKNOWN",
+        "business_email": null,
+        "business_phone_number": null,
+        "category_enum": null,
+        "category_name": "Digital creator",
+        "country_block": false,
+        "edge_follow": {
+            "count": 1024
+        },
+        "edge_followed_by": {
+            "count": 351259
+        },
+        "edge_mutual_followed_by": {
+            "count": 0,
+            "edges": []
+        },
+        "edge_related_profiles": {
+            "edges": [
+                {
+                    "node": {
+                        "full_name": "Os",
+                        "id": "35283484",
+                        "is_private": false,
+                        "is_verified": true,
+                        "profile_pic_url": "https://instagram.fmex1-2.fna.fbcdn.net/v/t51.2885-19/540603386_18527513077019485_2126063520578311302_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmex1-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QFWXkkFv_eAacvoa4itCuQBbxvM0pcmdmWsI65O-BDDIS2oS0yeA-s_Zic8N_-GjQjHI9UR0y9AkZPs-oSOxaUR&_nc_ohc=9bux-gdjk3YQ7kNvwFYi2iJ&_nc_gid=zgQTtB2ZG_TTzQ0egKAvZg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfdapBjLK5BYJ18yLIPQoOUk1uZGhaj7v1DcHW6H_kEE2Q&oe=6903747E&_nc_sid=8b3546",
+                        "username": "wattsopa"
+                    }
+                },
+                {
+                    "node": {
+                        "full_name": "insulini",
+                        "id": "48787157588",
+                        "is_private": false,
+                        "is_verified": false,
+                        "profile_pic_url": "https://instagram.fmex1-2.fna.fbcdn.net/v/t51.2885-19/419031541_1296749315049977_6994234299867646386_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=instagram.fmex1-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QFWXkkFv_eAacvoa4itCuQBbxvM0pcmdmWsI65O-BDDIS2oS0yeA-s_Zic8N_-GjQjHI9UR0y9AkZPs-oSOxaUR&_nc_ohc=-11KlLnKabUQ7kNvwERWHDX&_nc_gid=zgQTtB2ZG_TTzQ0egKAvZg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AffoQsJCx6K9CdX-jYXpJHkbv9e5PkDMxCAqS3GRGD5mxA&oe=6903A65B&_nc_sid=8b3546",
+                        "username": "a_insulini"
+                    }
+                },
+                {
+                    "node": {
+                        "full_name": "Eva Mari\u0301a Beristain",
+                        "id": "196608909",
+                        "is_private": false,
+                        "is_verified": true,
+                        "profile_pic_url": "https://instagram.fmex1-2.fna.fbcdn.net/v/t51.2885-19/275053788_3175224949424089_9205684204703989107_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmex1-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QFWXkkFv_eAacvoa4itCuQBbxvM0pcmdmWsI65O-BDDIS2oS0yeA-s_Zic8N_-GjQjHI9UR0y9AkZPs-oSOxaUR&_nc_ohc=XDx5FGrPzYAQ7kNvwGEQ4PC&_nc_gid=zgQTtB2ZG_TTzQ0egKAvZg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AffsXh6dd24niE9BnpF5kpaJDUhaW2y0ZA_CJRa4jgEa5Q&oe=69038480&_nc_sid=8b3546",
+                        "username": "misstercermundo"
+                    }
+                },
+                {
+                    "node": {
+                        "full_name": "Tila Maria Sesto",
+                        "id": "1519784609",
+                        "is_private": false,
+                        "is_verified": true,
+                        "profile_pic_url": "https://instagram.fmex1-5.fna.fbcdn.net/v/t51.2885-19/217299810_3072947922829875_2928693568239557069_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmex1-5.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QFWXkkFv_eAacvoa4itCuQBbxvM0pcmdmWsI65O-BDDIS2oS0yeA-s_Zic8N_-GjQjHI9UR0y9AkZPs-oSOxaUR&_nc_ohc=ntNL9Wq5ZxQQ7kNvwEZI3xT&_nc_gid=zgQTtB2ZG_TTzQ0egKAvZg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfeVgtosJxI9QbfIEwuoX7xD_6tingGcRJjhmjVzFE9qAg&oe=69037C9B&_nc_sid=8b3546",
+                        "username": "tilasesto"
+                    }
+                },
+                {
+                    "node": {
+                        "full_name": "Rafa Carbajal",
+                        "id": "44701083705",
+                        "is_private": false,
+                        "is_verified": true,
+                        "profile_pic_url": "https://instagram.fmex1-2.fna.fbcdn.net/v/t51.2885-19/312811604_118951557663749_805977723857743206_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmex1-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QFWXkkFv_eAacvoa4itCuQBbxvM0pcmdmWsI65O-BDDIS2oS0yeA-s_Zic8N_-GjQjHI9UR0y9AkZPs-oSOxaUR&_nc_ohc=yGd_XLJvvfAQ7kNvwG_oDOw&_nc_gid=zgQTtB2ZG_TTzQ0egKAvZg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Afce8l22mnoD_bcJ8Bqk5uChCaT5JRMcJ3y6JBYJO_gwmg&oe=69039B59&_nc_sid=8b3546",
+                        "username": "soyrafacarbajal"
+                    }
+                },
+                {
+                    "node": {
+                        "full_name": "Chumel Torres",
+                        "id": "417377",
+                        "is_private": false,
+                        "is_verified": true,
+                        "profile_pic_url": "https://instagram.fmex1-2.fna.fbcdn.net/v/t51.2885-19/58680975_1033492910172946_2880994522341310464_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmex1-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QFWXkkFv_eAacvoa4itCuQBbxvM0pcmdmWsI65O-BDDIS2oS0yeA-s_Zic8N_-GjQjHI9UR0y9AkZPs-oSOxaUR&_nc_ohc=BtC17zbb9xwQ7kNvwH03u6U&_nc_gid=zgQTtB2ZG_TTzQ0egKAvZg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AffCyYlLl2kgLm-9pKnYEMNaHF-Y8v3sqaAuxBdTf2ARWw&oe=6903A808&_nc_sid=8b3546",
+                        "username": "chumeltorres"
+                    }
+                },
+                {
+                    "node": {
+                        "full_name": "Andy Bay",
+                        "id": "288777562",
+                        "is_private": false,
+                        "is_verified": true,
+                        "profile_pic_url": "https://instagram.fmex1-6.fna.fbcdn.net/v/t51.2885-19/464497306_3824781671124280_5486372516210814205_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDA1LmMyIn0&_nc_ht=instagram.fmex1-6.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QFWXkkFv_eAacvoa4itCuQBbxvM0pcmdmWsI65O-BDDIS2oS0yeA-s_Zic8N_-GjQjHI9UR0y9AkZPs-oSOxaUR&_nc_ohc=EcNJfqgvN48Q7kNvwEmrseV&_nc_gid=zgQTtB2ZG_TTzQ0egKAvZg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AffDahPMElR4NxGdeJCpgJ9YT0QllO4VltvZxGVbQMpjdQ&oe=6903A66B&_nc_sid=8b3546",
+                        "username": "totifruttt"
+                    }
+                }
+            ]
+        },
+        "eimu_id": "103038594429839",
+        "external_url": "https://linktr.ee/vickywolff",
+        "external_url_linkshimmed": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fvickywolff&e=AT08nOi_HBUJd4ffP_0UvtiIgI32FEk4jhd-hccjjvpYQKqB7rDDe4T4EmzJ5reXr3xtj5qGe9EZfsDBdIn_E2M0yGWXqwxeKGNAS8clbyufFMB6",
+        "fb_profile_biolink": null,
+        "fbid": "17841401732860730",
+        "followed_by_viewer": false,
+        "follows_viewer": false,
+        "full_name": "Vicky Wolff\u2728",
+        "group_metadata": null,
+        "guardian_id": null,
+        "has_ar_effects": false,
+        "has_blocked_viewer": false,
+        "has_channel": false,
+        "has_clips": true,
+        "has_guides": false,
+        "has_onboarded_to_text_post_app": true,
+        "has_requested_viewer": false,
+        "hide_like_and_view_counts": false,
+        "highlight_reel_count": 47,
+        "id": "46777762",
+        "is_business_account": false,
+        "is_embeds_disabled": false,
+        "is_guardian_of_viewer": false,
+        "is_joined_recently": false,
+        "is_private": false,
+        "is_professional_account": true,
+        "is_regulated_c18": false,
+        "is_supervised_by_viewer": false,
+        "is_supervised_user": false,
+        "is_supervision_enabled": false,
+        "is_verified": true,
+        "is_verified_by_mv4b": false,
+        "overall_category_name": null,
+        "pinned_channels_list_count": 0,
+        "profile_pic_url": "https://instagram.fmex1-2.fna.fbcdn.net/v/t51.2885-19/484947489_578623407970975_8221337727796321162_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MDAuYzIifQ&_nc_ht=instagram.fmex1-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QFWXkkFv_eAacvoa4itCuQBbxvM0pcmdmWsI65O-BDDIS2oS0yeA-s_Zic8N_-GjQjHI9UR0y9AkZPs-oSOxaUR&_nc_ohc=S24VrDggcioQ7kNvwEC0p6F&_nc_gid=zgQTtB2ZG_TTzQ0egKAvZg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfeTnkKvcjoco0AKF9yy7CmQ7bGhz_8haXXd7NdDrR2_AQ&oe=690396AD&_nc_sid=8b3546",
+        "profile_pic_url_hd": "https://instagram.fmex1-2.fna.fbcdn.net/v/t51.2885-19/484947489_578623407970975_8221337727796321162_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MDAuYzIifQ&_nc_ht=instagram.fmex1-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QFWXkkFv_eAacvoa4itCuQBbxvM0pcmdmWsI65O-BDDIS2oS0yeA-s_Zic8N_-GjQjHI9UR0y9AkZPs-oSOxaUR&_nc_ohc=S24VrDggcioQ7kNvwEC0p6F&_nc_gid=zgQTtB2ZG_TTzQ0egKAvZg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Afd7RQxf_ZA9f3pykVnmoaazAG9yBcj9_3NSq4xipEEw2w&oe=690396AD&_nc_sid=8b3546",
+        "pronouns": [],
+        "remove_message_entrypoint": false,
+        "requested_by_viewer": false,
+        "restricted_by_viewer": null,
+        "should_show_category": true,
+        "should_show_public_contacts": false,
+        "show_account_transparency_details": true,
+        "show_text_post_app_badge": true,
+        "transparency_label": null,
+        "transparency_product": null,
+        "username": "vickywolff"
+    }
+}

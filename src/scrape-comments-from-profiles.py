@@ -2,7 +2,8 @@ import instaloader
 import json
 import time
 
-creators=["elsocotroco","lasmacucasoficial","tilasesto","chuchopitza","lilocyv","eljuanamaro","elcronistayuc"]
+creators=["eljuanamaro","elcronistayuc"]
+
 
 # Create instance
 L = instaloader.Instaloader(
@@ -86,4 +87,3 @@ def retrieve_comments(target_username):
 
 for user in creators:
     retrieve_comments(user)    
-    time.sleep(10)  # Avoy hitting limit   

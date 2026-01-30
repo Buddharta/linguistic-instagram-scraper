@@ -1,0 +1,105 @@
+{
+    "instaloader": {
+        "node_type": "Profile",
+        "version": "4.14.2"
+    },
+    "node": {
+        "ai_agent_owner_username": null,
+        "ai_agent_type": null,
+        "bio_links": [
+            {
+                "link_type": "external",
+                "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fyoutu.be%2FLqlJsjIxL2A%3Fsi%3DEQk_oSW95FuzSe9M&e=AT0at6qCInBt-uxcDHkJNMrF2rrYGd2zLKTdNokxC97EEVN6lx3FwXB3svNXNJzccrctzjgUpTiVxB_MDhQjS0m7bAuajI8yXTL9oa1tVvLyKTeq",
+                "title": "YouTube \ud83d\udc7d",
+                "url": "https://youtu.be/LqlJsjIxL2A?si=EQk_oSW95FuzSe9M"
+            },
+            {
+                "link_type": "external",
+                "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fapp.temu.com%2Fk%2Fgd9e5cz1u99&e=AT0WutsL4IbPMoysYt27aRtuwMSCnT3BOMgLJvoY6Bj_MN4mFkrwLDxAh7O25cpbHVLsE8eHqNOuRvwJQU3V2q-H7O3nLfBbaizuu-Ho2jKM0lQT",
+                "title": "TEMU \ud83d\ude0e",
+                "url": "https://app.temu.com/k/gd9e5cz1u99"
+            }
+        ],
+        "biography": "Entrevistando gente por todo Yucat\u00e1n \ud83c\udfa4\nPublicidad: \ud83d\udce9 juliolealortiz@gmail.com o DM \n \ud83d\udcf8 Mis fotos: @juliolealfotografo \n \ud83d\udc47\ud83c\udffd\u00daltimo video de YouTube",
+        "biography_with_entities": {
+            "entities": [
+                {
+                    "hashtag": null,
+                    "user": {
+                        "username": "juliolealfotografo"
+                    }
+                }
+            ],
+            "raw_text": "Entrevistando gente por todo Yucat\u00e1n \ud83c\udfa4\nPublicidad: \ud83d\udce9 juliolealortiz@gmail.com o DM \n \ud83d\udcf8 Mis fotos: @juliolealfotografo \n \ud83d\udc47\ud83c\udffd\u00daltimo video de YouTube"
+        },
+        "blocked_by_viewer": false,
+        "business_address_json": "{\"city_name\": null, \"city_id\": null, \"latitude\": null, \"longitude\": null, \"street_address\": null, \"zip_code\": null}",
+        "business_category_name": null,
+        "business_contact_method": "UNKNOWN",
+        "business_email": null,
+        "business_phone_number": null,
+        "category_enum": null,
+        "category_name": "Digital creator",
+        "country_block": false,
+        "edge_follow": {
+            "count": 726
+        },
+        "edge_followed_by": {
+            "count": 98092
+        },
+        "edge_mutual_followed_by": {
+            "count": 0,
+            "edges": []
+        },
+        "edge_related_profiles": {
+            "edges": []
+        },
+        "eimu_id": "113376766724341",
+        "external_url": "https://youtu.be/LqlJsjIxL2A?si=EQk_oSW95FuzSe9M",
+        "external_url_linkshimmed": "https://l.instagram.com/?u=https%3A%2F%2Fyoutu.be%2FLqlJsjIxL2A%3Fsi%3DEQk_oSW95FuzSe9M&e=AT0jyfi8NXmZm-QaSVy8F6jDg1d8hfTAPLyrPeWfvmSkwlcIyAHL_OeKESNQpkXz7FFnRiXA9sDOcBQ87PDyRG0Svkf31ebRhwBEIMB3Wt9mDMs0",
+        "fb_profile_biolink": null,
+        "fbid": "17841401486623842",
+        "followed_by_viewer": false,
+        "follows_viewer": false,
+        "full_name": "Julio Leal Ortiz",
+        "group_metadata": null,
+        "guardian_id": null,
+        "has_ar_effects": false,
+        "has_blocked_viewer": false,
+        "has_channel": false,
+        "has_clips": true,
+        "has_guides": false,
+        "has_onboarded_to_text_post_app": true,
+        "has_requested_viewer": false,
+        "hide_like_and_view_counts": true,
+        "highlight_reel_count": 3,
+        "id": "245937554",
+        "is_business_account": false,
+        "is_embeds_disabled": false,
+        "is_guardian_of_viewer": false,
+        "is_joined_recently": false,
+        "is_private": false,
+        "is_professional_account": true,
+        "is_regulated_c18": false,
+        "is_supervised_by_viewer": false,
+        "is_supervised_user": false,
+        "is_supervision_enabled": false,
+        "is_verified": true,
+        "is_verified_by_mv4b": false,
+        "overall_category_name": null,
+        "pinned_channels_list_count": 0,
+        "profile_pic_url": "https://instagram.fmex1-2.fna.fbcdn.net/v/t51.2885-19/494373575_18505063648049555_3259327498477276572_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmex1-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QFab7SyrvvoXJPCsJp5NLNj4MJtQRLiSf5bgshzqdUKz3u4IM3kVzjeq_5h195KGgJAuunQHk6Dsyi7oonsTbIM&_nc_ohc=R0aw4qs0nRQQ7kNvwGdDKpd&_nc_gid=9lTkVp-kaqdBElnYNwX3YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfcAEEnC05WbjJtmLexbJBxXNQ7XdGiH9ik0gnHMG9jmTg&oe=6903A149&_nc_sid=8b3546",
+        "profile_pic_url_hd": "https://instagram.fmex1-2.fna.fbcdn.net/v/t51.2885-19/494373575_18505063648049555_3259327498477276572_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmex1-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QFab7SyrvvoXJPCsJp5NLNj4MJtQRLiSf5bgshzqdUKz3u4IM3kVzjeq_5h195KGgJAuunQHk6Dsyi7oonsTbIM&_nc_ohc=R0aw4qs0nRQQ7kNvwGdDKpd&_nc_gid=9lTkVp-kaqdBElnYNwX3YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfcHG07BtV9a_K0WU1tC93NfyI4F-BJ68RKm6tLMSyrbLg&oe=6903A149&_nc_sid=8b3546",
+        "pronouns": [],
+        "remove_message_entrypoint": false,
+        "requested_by_viewer": false,
+        "restricted_by_viewer": null,
+        "should_show_category": true,
+        "should_show_public_contacts": true,
+        "show_account_transparency_details": true,
+        "show_text_post_app_badge": true,
+        "transparency_label": null,
+        "transparency_product": null,
+        "username": "juliolealortiz"
+    }
+}

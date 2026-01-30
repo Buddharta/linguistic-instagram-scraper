@@ -1,0 +1,105 @@
+{
+    "instaloader": {
+        "node_type": "Profile",
+        "version": "4.14.2"
+    },
+    "node": {
+        "ai_agent_owner_username": null,
+        "ai_agent_type": null,
+        "bio_links": [
+            {
+                "link_type": "external",
+                "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fwww.tiktok.com%2F%40oswaldomatu%3F_t%3DZM-8uRuqshWLun%26_r%3D1&e=AT1Wkx_fDF4_QUohU5uOjQBW9GuGDbX8fCUScmWoP3kex0bcEgu2kSQqPY67lC9ECLd4ZKiM81mizv77glorD13zMuIyOqi-PWU1wmlu_XUnwW9N",
+                "title": "Tiktok",
+                "url": "https://www.tiktok.com/@oswaldomatu?_t=ZM-8uRuqshWLun&_r=1"
+            }
+        ],
+        "biography": "Pr\u00edncipe del mayab @oswaldomatu\nPublicidad: edificiosmayas@gmail.com \ud83d\udce9\nContacto: @ginn_amaya",
+        "biography_with_entities": {
+            "entities": [
+                {
+                    "hashtag": null,
+                    "user": {
+                        "username": "ginn_amaya"
+                    }
+                },
+                {
+                    "hashtag": null,
+                    "user": {
+                        "username": "oswaldomatu"
+                    }
+                }
+            ],
+            "raw_text": "Pr\u00edncipe del mayab @oswaldomatu\nPublicidad: edificiosmayas@gmail.com \ud83d\udce9\nContacto: @ginn_amaya"
+        },
+        "blocked_by_viewer": false,
+        "business_address_json": "{\"city_name\": null, \"city_id\": null, \"latitude\": null, \"longitude\": null, \"street_address\": null, \"zip_code\": null}",
+        "business_category_name": null,
+        "business_contact_method": "CALL",
+        "business_email": null,
+        "business_phone_number": null,
+        "category_enum": null,
+        "category_name": "Digital creator",
+        "country_block": false,
+        "edge_follow": {
+            "count": 1604
+        },
+        "edge_followed_by": {
+            "count": 12271
+        },
+        "edge_mutual_followed_by": {
+            "count": 0,
+            "edges": []
+        },
+        "edge_related_profiles": {
+            "edges": []
+        },
+        "eimu_id": "106418767423048",
+        "external_url": "https://www.tiktok.com/@oswaldomatu?_t=ZM-8uRuqshWLun&_r=1",
+        "external_url_linkshimmed": "https://l.instagram.com/?u=https%3A%2F%2Fwww.tiktok.com%2F%40oswaldomatu%3F_t%3DZM-8uRuqshWLun%26_r%3D1&e=AT16hDJ098xdxwzHswhRSwCXkG1PNzJNPcW4LNNJIcf4TwkFnsZy-oX06ZwQuPUf-MvCyzF6AWty3oz4va_RQK9P20ExsX1WIwi0ExoHDl4HgZNK",
+        "fb_profile_biolink": null,
+        "fbid": "17841401339822296",
+        "followed_by_viewer": false,
+        "follows_viewer": false,
+        "full_name": "Oswaldo Mat\u00fa",
+        "group_metadata": null,
+        "guardian_id": null,
+        "has_ar_effects": false,
+        "has_blocked_viewer": false,
+        "has_channel": false,
+        "has_clips": true,
+        "has_guides": false,
+        "has_onboarded_to_text_post_app": true,
+        "has_requested_viewer": false,
+        "hide_like_and_view_counts": false,
+        "highlight_reel_count": 0,
+        "id": "1426988660",
+        "is_business_account": false,
+        "is_embeds_disabled": false,
+        "is_guardian_of_viewer": false,
+        "is_joined_recently": false,
+        "is_private": false,
+        "is_professional_account": true,
+        "is_regulated_c18": false,
+        "is_supervised_by_viewer": false,
+        "is_supervised_user": false,
+        "is_supervision_enabled": false,
+        "is_verified": false,
+        "is_verified_by_mv4b": false,
+        "overall_category_name": null,
+        "pinned_channels_list_count": 0,
+        "profile_pic_url": "https://instagram.fmex1-6.fna.fbcdn.net/v/t51.2885-19/463182951_846838433937520_6860311708308907317_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=instagram.fmex1-6.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QFTAdL3B_0NYjjnriwZUqMSk80SRnTClhMfoNHrmA7uTnWYa1VIBLi1ipoyhp5uS3XFAuDsqYIGci3xHEvVTxRo&_nc_ohc=0y1Q3maqvwAQ7kNvwEQHGWK&_nc_gid=Q2wHnxB4v15tfPoFasT9OA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfcPbHPoIHMylAqdZhfSuBrF8IVxXJzUZJ0ZwA97817AhA&oe=69038A65&_nc_sid=8b3546",
+        "profile_pic_url_hd": "https://instagram.fmex1-6.fna.fbcdn.net/v/t51.2885-19/463182951_846838433937520_6860311708308907317_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=instagram.fmex1-6.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QFTAdL3B_0NYjjnriwZUqMSk80SRnTClhMfoNHrmA7uTnWYa1VIBLi1ipoyhp5uS3XFAuDsqYIGci3xHEvVTxRo&_nc_ohc=0y1Q3maqvwAQ7kNvwEQHGWK&_nc_gid=Q2wHnxB4v15tfPoFasT9OA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfcE4Br6nCUWvS-h80THcsSaa6dSPTlmZB3ufGEaWh2rfg&oe=69038A65&_nc_sid=8b3546",
+        "pronouns": [],
+        "remove_message_entrypoint": false,
+        "requested_by_viewer": false,
+        "restricted_by_viewer": null,
+        "should_show_category": true,
+        "should_show_public_contacts": true,
+        "show_account_transparency_details": true,
+        "show_text_post_app_badge": true,
+        "transparency_label": null,
+        "transparency_product": null,
+        "username": "edificiosmayas"
+    }
+}
