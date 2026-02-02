@@ -27,14 +27,14 @@ def process_comments_to_csv(json_file, output_csv=None):
         for post in data:
             post_url = post.get('url', '')
             post_caption = post.get('caption', '')
+            post_hashtags=""
             if post_caption and '#' in post_caption: #Process only comments with hashtags 
                 caption_words = post_caption.split()
-                post_hashtags=" "
                 for word in caption_words:
                     if word.startswith('#'):
                         post_hashtags+=f'{word} '
             else:
-                post_hashtags="N/A"
+                post_hashtags+="N/A"
             # Process each comment
             for comment in post.get('comments', []):
                 username = comment.get('owner', '')
