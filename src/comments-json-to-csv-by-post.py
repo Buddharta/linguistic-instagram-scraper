@@ -20,40 +20,40 @@ def process_comments_to_csv_by_post(json_file, output_csv=None):
         data = json.load(f) 
         # Process each post
         for post in data:
-            post_url = post.get('url', '')
+            url = post.get('url', '')
             post_id = post.get('shortcode', '')
             post_caption = post.get('caption', '')
             if post_caption and '#' in post_caption: #Process only comments with hashtags 
-                caption_words = post_caption.split()
-                post_hashtags=['hashtags:']
-                for word in caption_words:
-                    if word.startswith('#'):
-                        post_hashtags.append(word)
                 # Process each comment
                 output_csv = f"outputs/{user_name}/{base_name}_{post_id}.csv"
+                caption_words = post_caption.split()
+                header=[url, 'hashtags:']
+                for word in caption_words:
+                    if word.startswith('#'):
+                        header.append(word)
                 # Prepare CSV
                 with open(output_csv, 'w', newline='', encoding='utf-8') as csvfile:
                     writer = csv.writer(csvfile) 
                     # Write header
-                    writer.writerow(post_hashtags)
-                    writer.writerow(['post_url', 'username', 'comment_id', 'comment_text']) 
+                    writer.writerow(header)
+                    writer.writerow(['username', 'comment_id', 'text']) 
                     for comment in post.get('comments', []):
                         username = comment.get('owner', '')
                         comment_id = comment.get('id', '')
                         comment_text = comment.get('text', '')
                         # Write row
-                        writer.writerow([username, comment_id, post_url, comment_text])
+                        writer.writerow([username, comment_id, comment_text])
                         
                         # Also process replies if they exist
                         for reply in comment.get('replies', []):
                             reply_username = reply.get('owner', '')
                             reply_id = reply.get('id', '')
                             reply_text = reply.get('text', '')
-                            writer.writerow([reply_username, reply_id, post_url, reply_text])
+                            writer.writerow([reply_username, reply_id, reply_text])
         
                 print(f"CSV saved to: {output_csv}")
             else:
-                print(f"Post: {post_url} contains no caption skipping...")
+                print(f"Post: {url} contains no caption skipping...")
 
 # Process all JSON files in current directory
 json_files = glob.glob('data/*_comments.json')
