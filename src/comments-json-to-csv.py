@@ -50,7 +50,7 @@ def process_comments_to_csv(json_file, output_csv=None):
                     reply_username = reply.get('owner', '')
                     reply_id = reply.get('id', '')
                     reply_text = reply.get('text', '')
-                    writer.writerow([reply_username, reply_id, post_url, reply_text])
+                    writer.writerow([reply_username, reply_id, post_url, post_hashtags, reply_text])
     
     print(f"CSV saved to: {output_csv}")
     return output_csv
