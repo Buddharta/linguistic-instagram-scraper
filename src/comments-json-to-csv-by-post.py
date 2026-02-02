@@ -39,7 +39,7 @@ def process_comments_to_csv_by_post(json_file, output_csv=None):
                     writer.writerow(['username', 'comment_id', 'text']) 
                     for comment in post.get('comments', []):
                         username = comment.get('owner', '')
-                        comment_id = comment.get('id', '')
+                        comment_id = str(comment.get('id', ''))
                         comment_text = comment.get('text', '')
                         # Write row
                         writer.writerow([username, comment_id, comment_text])

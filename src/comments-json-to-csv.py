@@ -38,7 +38,7 @@ def process_comments_to_csv(json_file, output_csv=None):
             # Process each comment
             for comment in post.get('comments', []):
                 username = comment.get('owner', '')
-                comment_id = comment.get('id', '')
+                comment_id = str(comment.get('id', ''))
                 comment_text = comment.get('text', '')
                 
                 # Write row
